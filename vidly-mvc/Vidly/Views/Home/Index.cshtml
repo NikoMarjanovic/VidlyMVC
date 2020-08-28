@@ -1,0 +1,29 @@
+﻿@{ ViewBag.Title = "Home Page";
+                }
+
+
+<div class="jumbotron">
+    <h2 class="display-3">Do you want to log in as an Manager or a Clerk?</h2>
+    <p class="lead">Each role offers different functions to the user</p>
+    <hr class="my-4">
+    <div class="row">
+        <div class="col-sm-6">
+            <p>Allows the same actions as a clerk plus the ability to manage, add and edit movies.</p>
+            <p class="lead">
+                @Html.ActionLink("Manager", "Manager", "Home", null, new { @class = "btn btn-primary" })
+            </p>
+            <p>User: admin@vidly.com, password:Password!123 </p>
+
+        </div>
+        <div class="col-sm-6">
+            <p>Lets the user manage and add customer accounts, view customer details and add new rentals.</p>
+            <p class="lead">
+                @Html.ActionLink("Clerk", "Clerk", "Home", null, new { @class = "btn btn-primary" })
+            </p>
+            <p>User: guest@vidly.com, password:Password!123 </p>
+        </div>
+    </div>
+</div>
+
+        @Scripts.Render("~/bundles/lib")
+

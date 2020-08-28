@@ -1,0 +1,274 @@
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Vidly.dll.config
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Vidly.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Vidly.pdb
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\EntityFramework.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Microsoft.Owin.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Microsoft.Owin.Security.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Owin.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\System.Web.Helpers.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\System.Web.Mvc.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\System.Web.Optimization.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\System.Web.Razor.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\System.Web.WebPages.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\WebGrease.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\System.Web.Helpers.xml
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\System.Web.Mvc.xml
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\System.Web.Optimization.xml
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\System.Web.Razor.xml
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\System.Web.WebPages.xml
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\EntityFramework.xml
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Microsoft.Owin.xml
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Microsoft.Owin.Security.xml
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\obj\Debug\Vidly.dll
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\obj\Debug\Vidly.pdb
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\obj\Debug\Vidly.Migrations.asdsd.resources
+C:\Users\nikma\Downloads\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\obj\Debug\Vidly.Migrations.asdsd.resources
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\obj\Debug\Vidly.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\vidly-mvc-5-acb8c0a0a27255e3f0af85ab2f687e0e9b82b6db\Vidly\obj\Debug\Vidly.pdb
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Vidly.dll.config
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Vidly.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Vidly.pdb
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\EntityFramework.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Microsoft.Owin.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Owin.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\System.Web.Helpers.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\System.Web.Mvc.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\System.Web.Optimization.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\System.Web.Razor.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\System.Web.WebPages.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\WebGrease.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\System.Web.Helpers.xml
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\System.Web.Mvc.xml
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\System.Web.Optimization.xml
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\System.Web.Razor.xml
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\System.Web.WebPages.xml
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\EntityFramework.xml
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Microsoft.Owin.xml
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.xml
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\obj\Debug\Vidly.Migrations.asdsd.resources
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\obj\Debug\Vidly.dll
+C:\Users\nikma\OneDrive\7320\_Autre\ASP.NET MVC\vidly-mvc-5\vidly-mvc-5\Vidly\obj\Debug\Vidly.pdb
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\obj\Debug\Vidly.Migrations.asdsd.resources
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\obj\Debug\Vidly.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\obj\Debug\Vidly.pdb
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Vidly.dll.config
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Vidly.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Vidly.pdb
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\EntityFramework.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Microsoft.Owin.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Owin.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\System.Web.Helpers.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\System.Web.Mvc.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\System.Web.Optimization.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\System.Web.Razor.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\System.Web.WebPages.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\WebGrease.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\System.Web.Helpers.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\System.Web.Mvc.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\System.Web.Optimization.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\System.Web.Razor.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\System.Web.WebPages.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\EntityFramework.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Microsoft.Owin.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\obj\Debug\Vidly.Migrations._new.resources
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\System.Net.Http.Formatting.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\System.Web.Http.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\System.Web.Http.WebHost.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\System.Net.Http.Formatting.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\System.Web.Http.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\System.Web.Http.WebHost.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\AutoMapper.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\bin\AutoMapper.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\obj\Debug\Vidly.Migrations.useraccounts.resources
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\obj\Debug\Vidly.Migrations.driverLicense.resources
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\obj\Debug\Vidly.Migrations.phone.resources
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\obj\Debug\Vidly.Migrations.Rentals.resources
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\obj\Debug\Vidly.Migrations.numberavailable.resources
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\obj\Debug\Vidly.Migrations.sql.resources
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc-5\Vidly\obj\Debug\Vidly.Migrations.SeedUsers2.resources
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Vidly.dll.config
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Vidly.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Vidly.pdb
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\AutoMapper.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\EntityFramework.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Microsoft.Owin.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Microsoft.Owin.Security.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Owin.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\System.Net.Http.Formatting.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\System.Web.Helpers.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\System.Web.Http.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\System.Web.Http.WebHost.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\System.Web.Mvc.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\System.Web.Optimization.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\System.Web.Razor.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\System.Web.WebPages.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\WebGrease.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\AutoMapper.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\EntityFramework.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Microsoft.Owin.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Microsoft.Owin.Security.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\System.Net.Http.Formatting.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\System.Web.Helpers.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\System.Web.Http.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\System.Web.Http.WebHost.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\System.Web.Mvc.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\System.Web.Razor.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\System.Web.WebPages.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\bin\System.Web.Optimization.xml
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\obj\Debug\Vidly.Migrations.asdsd.resources
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\obj\Debug\Vidly.Migrations._new.resources
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\obj\Debug\Vidly.Migrations.useraccounts.resources
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\obj\Debug\Vidly.Migrations.driverLicense.resources
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\obj\Debug\Vidly.Migrations.phone.resources
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\obj\Debug\Vidly.Migrations.Rentals.resources
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\obj\Debug\Vidly.Migrations.numberavailable.resources
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\obj\Debug\Vidly.Migrations.sql.resources
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\obj\Debug\Vidly.Migrations.SeedUsers2.resources
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\obj\Debug\Vidly.dll
+C:\Users\nikma\OneDrive\Documents\GitHub\Vidly-mvc\vidly-mvc\Vidly\obj\Debug\Vidly.pdb
